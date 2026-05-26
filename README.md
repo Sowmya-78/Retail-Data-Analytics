@@ -14,6 +14,9 @@ This project analyzes retail sales data using Python, SQL, and Power BI.
 - sql/
 - dashboards/
 
+## 📊 Dashboard Preview
+![images](images/dashboard.png))
+
 ## 🚀 Key Insights
 - Sales trends analysis
 - Customer behavior insights
